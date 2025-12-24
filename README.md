@@ -2,19 +2,6 @@
 
 A habit tracking app with financial accountability. Build better habits by putting (simulated) money on the line.
 
-## Current Status: Phase 1 Complete ✅
-
-**What's Working:**
-- ✅ User authentication (sign up, login, logout)
-- ✅ Protected dashboard
-- ✅ Database with tables for habits, occurrences, and penalties
-
-**Next Up:** Phase 2 - Habit Management
-
-## Quick Start
-
-See [SETUP_GUIDE.md](SETUP_GUIDE.md) for complete setup instructions.
-
 ```bash
 # 1. Install dependencies
 pnpm install
@@ -30,8 +17,6 @@ pnpm dev
 ```
 
 ## Development Roadmap
-
-See [DEVELOPMENT_PLAN.md](DEVELOPMENT_PLAN.md) for the complete 6-phase plan.
 
 ### Phase 1: Foundation & Authentication ✅ COMPLETE
 - Next.js + Supabase setup
@@ -68,8 +53,3 @@ See [DEVELOPMENT_PLAN.md](DEVELOPMENT_PLAN.md) for the complete 6-phase plan.
 - **Frontend:** Next.js 15, React 19, TypeScript, Tailwind CSS
 - **Backend:** Supabase (PostgreSQL + Auth)
 - **Hosting:** Vercel (planned)
-
-## Documentation
-
-- [SETUP_GUIDE.md](SETUP_GUIDE.md) - How to set up and test Phase 1
-- [DEVELOPMENT_PLAN.md](DEVELOPMENT_PLAN.md) - Complete development roadmap
